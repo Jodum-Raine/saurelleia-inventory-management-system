@@ -1,0 +1,18 @@
+# Sensitive files
+db.php
+config.php
+.env
+*.env
+
+# Third-party library (install via Composer instead)
+PHPMailer/
+
+# User uploads
+uploads/
+
+# System files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
