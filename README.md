@@ -301,11 +301,23 @@ inventory-system/
 
 ## 📸 Screenshots
 
-> *Add your screenshots here. Suggested:*
-> - `screenshots/dashboard.png`
-> - `screenshots/sales.png`
-> - `screenshots/analytics.png`
-> - `screenshots/login.png`
+### 🔐 Login
+![Login](screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🛒 Sales Tracking
+![Sales](screenshots/sales-tracking.png)
+
+### 📈 Analytics
+![Analytics](screenshots/analytics.png)
+
+### 📝 Notes
+![Notes](screenshots/notes.png)
+
+### 👤 Profile
+![Profile](screenshots/profile.png)
 
 ---
 
