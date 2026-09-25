@@ -308,13 +308,13 @@ inventory-system/
 ![Dashboard](screenshots/dashboard.png)
 
 ### 🛒 Sales Tracking
-![Sales](screenshots/sales-tracking.png)
+![Sales](screenshots/tracking.png)
 
 ### 📈 Analytics
 ![Analytics](screenshots/analytics.png)
 
 ### 📝 Notes
-![Notes](screenshots/notes.png)
+![Notes](screenshots/note.png)
 
 ### 👤 Profile
 ![Profile](screenshots/profile.png)
