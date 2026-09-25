@@ -1,4 +1,4 @@
-# 📦 InventoryMS v2.0
+# 📦 InventoryMS v1.0
 
 A modern, full-featured **Inventory Management System** built with PHP, MySQL, and vanilla JavaScript. Manage products, track sales, monitor analytics, and control user access — all wrapped in a clean pink-themed UI.
 
